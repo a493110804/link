@@ -5,7 +5,7 @@
 //  Created by 魏新宇 on 15/12/2.
 //  Copyright © 2015年 魏新宇. All rights reserved.
 //
-
+//
 #include <iostream>
 struct student
 {
